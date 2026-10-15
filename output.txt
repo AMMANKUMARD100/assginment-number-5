@@ -1,0 +1,4 @@
+Name: Alice (Type: string)
+Age: 25 (Type: number)
+Is Employed: true (Type: boolean)
+Skills: ["HTML","CSS","JavaScript"] (Type: object)
